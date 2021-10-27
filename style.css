@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto:wght@100&display=swap');
+
+body {
+  background-color: #f0efeb;
+  font-family: 'Playfair Display', serif;
+  color: #9b9b7a;
+  font-size: 20px ;
+  line-height: 2em
+}
+
+h1 {
+  color: #6b9080;
+  font-size: 30px;
+  font-family: 'Playfair Display', serif;
+  line-height: 2em;
+}
+
+h2 {
+  color: #6b9080;
+  font-size: 20px;
+  font-family: 'Playfair Display', serif;
+  line-height: ;
+  font-weight: 300;
+}
+
+.picture{
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px #6b9080 solid;
+  background-position-y: 20px;
+  border-radius: 50%
+}
+
+.container {
+  width: 700px;
+  margin: 40px auto;
+  text-align: center;
+
+}
+.text-center {
+  text-align: center;
+}
+.card-white {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+  display: inline;
+  padding: 10px;
+}
