@@ -57,3 +57,10 @@ h2 {
   display: inline;
   padding: 10px;
 }
+
+.btn-red{
+  background-color: #9b2226;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+}
