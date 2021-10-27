@@ -58,9 +58,16 @@ h2 {
   padding: 10px;
 }
 
-.btn-red{
-  background-color: #9b2226;
-  color: white;
-  padding: 15px 20px;
-  border-radius: 4px;
+.btn-red {
+    background-color: #d59597;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+.btn-red:hover {
+  background-color: white;
+  color: #d59597;
+  border: 2px #d59597 solid;
+  text-decoration: none ;
 }
